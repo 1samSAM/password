@@ -6,7 +6,7 @@ def view():
             data = line
             user,passw = data.split("|")
             print("user:",user,"password:",passw)
-            
+
 
 
 def add():
